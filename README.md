@@ -18,6 +18,7 @@ Run the following commands:
    ```shell
    cp -r adr-template/{.,}* .
    rm README.md
+   rm -rf adr-template .git
    ```
 
    NB: The above command will copy all files including hidden files. and replace the existing files README.md, LICENSE, .gitignore, etc.
