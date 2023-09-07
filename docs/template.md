@@ -1,7 +1,8 @@
 
-# Decision record template 
+====================================================================================================
 **Author**: Subhrajit Makur  
-**Github**: [Avyukth](https://github.com/Avyukth)
+**Github**: [Avyukth](https://github.com/Avyukth)  
+**Dated**: DAY/MONTH/YEAR
 
 # Title
 
